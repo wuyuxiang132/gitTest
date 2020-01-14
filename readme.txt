@@ -14,3 +14,4 @@ test pull
 test head
 test rebase
 test test
+test rebase
